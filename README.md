@@ -1,4 +1,4 @@
-[![Matt Rust's GitHub stats](https://github-readme-stats-taupe-nine-41.vercel.app/api?username=rst515&show_icons=true&theme=dark&bg_color=00000000)](https://github.com/rst515)
+[![Matt's GitHub stats](https://github-readme-stats-taupe-nine-41.vercel.app/api?username=rst515&show_icons=true&theme=dark&bg_color=00000000)](https://github.com/rst515)
 
 [![Top Langs](https://github-readme-stats-taupe-nine-41.vercel.app/api/top-langs/?username=rst515&layout=compact&theme=dark&bg_color=00000000&exclude_repo=github-readme-stats,oh-my-zsh&hide=css,html,smarty)](https://github.com/rst515)
 
