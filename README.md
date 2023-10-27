@@ -11,6 +11,13 @@
 </details>
 
 <details>
+<summary>AWS Serverless</summary>
+<br>
+
+![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge) ![AWS Lambda Badge](https://img.shields.io/badge/AWS%20Lambda-F90?logo=awslambda&logoColor=fff&style=for-the-badge)  ![Amazon S3 Badge](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff&style=for-the-badge) ![Amazon EC2 Badge](https://img.shields.io/badge/Amazon%20EC2-F90?logo=amazonec2&logoColor=fff&style=for-the-badge) ![Amazon ECS Badge](https://img.shields.io/badge/Amazon%20ECS-F90?logo=amazonecs&logoColor=fff&style=for-the-badge) ![Amazon RDS Badge](https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonrds&logoColor=fff&style=for-the-badge) ![Amazon SQS Badge](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?logo=amazonsqs&logoColor=fff&style=for-the-badge) ![Amazon DynamoDB Badge](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff&style=for-the-badge) ![Amazon CloudWatch Badge](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=fff&style=for-the-badge) ![Amazon API Gateway Badge](https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B?logo=amazonapigateway&logoColor=fff&style=for-the-badge) CloudFormation CodeBuild
+</details>
+
+<details>
 <summary>Databases</summary>
 <br>
 
